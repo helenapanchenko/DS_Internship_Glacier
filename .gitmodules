@@ -1,0 +1,3 @@
+[submodule "Week1/VC"]
+	path = Week1/VC
+	url = https://github.com/helenapanchenko/VC.git
